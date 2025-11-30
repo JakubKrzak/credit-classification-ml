@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dane / modele
+data/
+datasets/
+models/
+checkpoints/
+
+# IDE / system
+.vscode/
+.idea/
+.DS_Store
+
+# Logi
+logs/
+*.log
