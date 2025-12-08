@@ -2,7 +2,7 @@
 
 A detailed, text-driven EDA notebook is available here:
 
-➡️ [Click to open the EDA notebook](notebooks/EDA_credit_score_text_first_part.ipynb)
+➡️ [Click to open the EDA notebook](EDA_credit_score.ipynb)
 
 This notebook includes:
 - dataset overview  
