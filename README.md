@@ -95,3 +95,11 @@ Below is a summary of the best performers.
   </tr>
 </table>
 
+Modeling Summary 🧠
+
+XGBoost is the top performer, providing the best generalization and handling complex, non-linear interactions in the data.
+
+Random Forest also performs strongly and consistently.
+
+Linear models underperform due to non-linearity and interactions in the dataset
+
