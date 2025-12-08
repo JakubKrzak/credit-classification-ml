@@ -49,13 +49,49 @@ EDA conclusion: preprocessing and feature engineering are essential, and the dat
 Several machine-learning models were trained and compared using F1_macro and Accuracy.
 Below is a summary of the best performers.
 
-### Model Performance Summary
+<h3>Model Performance Summary</h3>
 
-| Model | F1_macro | Accuracy |
-|-------|---------|----------|
-| ⭐ **XGBoost (tuned)** | ![f1](https://img.shields.io/badge/0.782-brightgreen) | ![acc](https://img.shields.io/badge/0.7939-brightgreen) |
-| 🌲 Random Forest (tuned) | ![f1](https://img.shields.io/badge/0.7806-green) | ![acc](https://img.shields.io/badge/0.791-green) |
-| 🌲 Random Forest (baseline) | ![f1](https://img.shields.io/badge/0.770-yellowgreen) | ![acc](https://img.shields.io/badge/0.785-yellowgreen) |
-| Gradient Boosting | ![f1](https://img.shields.io/badge/0.678-yellow) | – |
-| Decision Tree | ![f1](https://img.shields.io/badge/0.685-orange) | – |
-| Logistic Regression | ![f1](https://img.shields.io/badge/0.590-red) | – |
+<table>
+  <tr>
+    <th>Model</th>
+    <th>F1_macro</th>
+    <th>Accuracy</th>
+  </tr>
+
+  <tr>
+    <td><b>⭐ XGBoost (tuned)</b></td>
+    <td><img src="https://img.shields.io/badge/0.782-brightgreen"></td>
+    <td><img src="https://img.shields.io/badge/0.7939-brightgreen"></td>
+  </tr>
+
+  <tr>
+    <td>🌲 Random Forest (tuned)</td>
+    <td><img src="https://img.shields.io/badge/0.7806-green"></td>
+    <td><img src="https://img.shields.io/badge/0.791-green"></td>
+  </tr>
+
+  <tr>
+    <td>🌲 Random Forest (baseline)</td>
+    <td><img src="https://img.shields.io/badge/0.770-yellowgreen"></td>
+    <td><img src="https://img.shields.io/badge/0.785-yellowgreen"></td>
+  </tr>
+
+  <tr>
+    <td>Gradient Boosting</td>
+    <td><img src="https://img.shields.io/badge/0.678-yellow"></td>
+    <td><img src="https://img.shields.io/badge/0.703-yellow"></td>
+  </tr>
+
+  <tr>
+    <td>Decision Tree</td>
+    <td><img src="https://img.shields.io/badge/0.685-orange"></td>
+    <td><img src="https://img.shields.io/badge/0.708-orange"></td>
+  </tr>
+
+  <tr>
+    <td>Logistic Regression</td>
+    <td><img src="https://img.shields.io/badge/0.590-red"></td>
+    <td><img src="https://img.shields.io/badge/0.620-red"></td>
+  </tr>
+</table>
+
