@@ -23,7 +23,8 @@ The goal is to create a model that mirrors real-world credit-risk systems using 
 2. Exploratory Data Analysis (EDA) 🔍
 
 A full, text-driven EDA notebook is available here:
-➡️ Open EDA Notebook
+[Open EDA Notebook](notebooks/EDA_credit_score.ipynb)
+
 
 Key insights:
 
